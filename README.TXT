@@ -1,1 +1,0 @@
-Contails Quiz Application
